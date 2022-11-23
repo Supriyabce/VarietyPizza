@@ -31,10 +31,10 @@ There are two features used :
 Click [here](https://variety-pizza.herokuapp.com/register) to go to Varity pizza website.
 
 ## ScreenShot
-![alt text](https://github.com/Supriyabce/VarietyPizza/blob/main/screenshot/1.png)
-![alt text](https://github.com/Supriyabce/VarietyPizza/blob/main/screenshot/8.png)
-![alt text](https://github.com/Supriyabce/VarietyPizza/blob/main/screenshot/2.png)
 ![alt text](https://github.com/Supriyabce/VarietyPizza/blob/main/screenshot/3.png)
+![alt text](https://github.com/Supriyabce/VarietyPizza/blob/main/screenshot/1.png)
+![alt text](https://github.com/Supriyabce/VarietyPizza/blob/main/screenshot/2.png)
+![alt text](https://github.com/Supriyabce/VarietyPizza/blob/main/screenshot/8.png)
 ![alt text](https://github.com/Supriyabce/VarietyPizza/blob/main/screenshot/4.png)
 ![alt text](https://github.com/Supriyabce/VarietyPizza/blob/main/screenshot/5.png)
 ![alt text](https://github.com/Supriyabce/VarietyPizza/blob/main/screenshot/6.png)
