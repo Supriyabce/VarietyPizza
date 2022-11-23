@@ -19,7 +19,7 @@ There are two features used :
 * Add new pizzas , pizza bases and toppings.
 * Admin can change order status as delivered from his side which will get reflected to User.
 
-##Tech Stacks
+## Tech Stacks
 * Mongo DB
 * React js
 * Express js
@@ -27,5 +27,8 @@ There are two features used :
 * Redux 
 * Axios
 
-##ScreenShot
+## Demo
+Click [here](quora.com/profile/Ashish-Kulkarni-100) to go to my Quora profile.
+
+## ScreenShot
 ![alt text](file:///C:/Users/supri/Desktop/vp%20ss/1.png)
