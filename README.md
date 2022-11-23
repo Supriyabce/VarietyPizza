@@ -28,7 +28,7 @@ There are two features used :
 * Axios
 
 ## Demo
-Click [here](quora.com/profile/Ashish-Kulkarni-100) to go to my Quora profile.
+Click [here](https://variety-pizza.herokuapp.com/register) to go to Varity pizza website.
 
 ## ScreenShot
 ![alt text](file:///C:/Users/supri/Desktop/vp%20ss/1.png)
