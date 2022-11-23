@@ -31,4 +31,4 @@ There are two features used :
 Click [here](https://variety-pizza.herokuapp.com/register) to go to Varity pizza website.
 
 ## ScreenShot
-![alt text](file:///C:/Users/supri/Desktop/vp%20ss/1.png)
+![alt text](https://github.com/Supriyabce/VarietyPizza/blob/main/screenshot/1.png)
