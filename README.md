@@ -12,7 +12,6 @@ There are two features used :
 ### 1. For User :-
 * User login and Admin login with complete registration , authorization ,email verification and forgot password system.
 * User can add already present pizza items to the cart or can customize his/her own pizza and add it to cart.
-* Razorpay integration for payment.
 * All orders made by user are displayed in "My Orders".
 * User can see order status as delivered or not delivered.
 ### 2. For Admin :-
