@@ -1,7 +1,10 @@
 
 # Variety Pizza
 
-This is a Full stack pizza delivery web app.
+Variety Pizza is a pizza ordering web application.
+The app features an online pizza ordering shop that lets the user order a delicious pizza from a huge variety, even there are options to select a crust size, bake and get customized cut styles and in desired quantity.
+App offers the user to create an account of their own, to kind off get the track of all orders made seamlessly.
+Technically, MERN stack has been used to complete the whole project.
 
 
 ## Features
